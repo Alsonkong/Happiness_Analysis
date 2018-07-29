@@ -9,7 +9,7 @@ When we look at happiness score by country, we found that people in North Americ
 
 
 <div>
-!(https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/HappinessByCountry_Heatmap.png)
+!(https://github.com/arielyeung/Happiness_Analysis/issues/1)
 </div>
 
 
