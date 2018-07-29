@@ -8,9 +8,9 @@ The project is inspired by this report and we would like to look at what countri
 When we look at happiness score by country, we found that people in North America, Australia, New Zealand, Western Europe are the happiest, followed by Latin America. People in Africa have the lowest happiness score in general.
 
 
-<div>
-![alt text](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/HappinessByCountry_Heatmap.png)
-    
+
+!(https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/HappinessByCountry_Heatmap.png)
+ <div>   
 </div>
 
 
