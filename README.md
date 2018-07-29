@@ -10,7 +10,6 @@ When we look at happiness score by country, we found that people in North Americ
 <div>
     <a href="https://plot.ly/~arielyeung/225/?share_key=ae6cSIxsA1AyqemJ1vHJhc" target="_blank" title="world-heatmap" style="display: block; text-align: center;"><img src="https://plot.ly/~arielyeung/225.png?share_key=ae6cSIxsA1AyqemJ1vHJhc" alt="world-heatmap" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
 </div>
-
 When exploring the relationship between happiness and GDP per capita, we found that Latin Americans are outstandingly happier comparing with other countries with similar level of wealthness.
 
 <div>
