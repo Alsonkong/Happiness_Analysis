@@ -45,7 +45,7 @@ Regression anaylsis using panel data would be helpful to find out the reasons fo
 
 |Visualization|
 |---|
-|[Heatmap_of_world_happiness](https://github.com/wyr211/Happy/blob/master/Visualization/HappinessByCountry_Heatmap.png)<br>*Distribution of happiness level around the world 2016*|
+|[Heatmap_of_world_happiness](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/HappinessByCountry_Heatmap.png)<br>*Distribution of happiness level around the world 2016*|
 |[Happiness_trend](https://github.com/wyr211/Happy/blob/master/Visualization/Happiness_Trend_LineChart.png)<br>*Happiness scores from year 2005 to 2017*|
 |[Happiness_GDP](https://github.com/wyr211/Happy/blob/master/Visualization/Happiness_GDP_ScatterPlot.png)<br>*Scatter plot between happiness scores and GDP per capita among regions*|
 |[Happiness_religion](https://github.com/wyr211/Happy/blob/master/Visualization/Happiness_Religion_ScatterPlot.png)<br>*Scatter plot between happiness scores and religion percentage among regions*|
