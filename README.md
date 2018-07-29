@@ -7,10 +7,9 @@ The project is inspired by this report and we would like to look at what countri
 
 When we look at happiness score by country, we found that people in North America, Australia, New Zealand, Western Europe are the happiest, followed by Latin America. People in Africa have the lowest happiness score in general.
 
-
 <div>
-    <a href="https://plot.ly/~arielyeung/225/happiness-by-country-2016/" target="_blank" title="plot from API (18)" style="display: block; text-align: center;"><img src="https://plot.ly/~arielyeung/225/happiness-by-country-2016/" alt="plot from API (18)" style="max-width: 100%;width: 600px;"  width="80%" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    
+    <a href="https://plot.ly/~arielyeung/225/?share_key=ae6cSIxsA1AyqemJ1vHJhc" target="_blank" title="world-heatmap" style="display: block; text-align: center;"><img src="https://plot.ly/~arielyeung/225.png?share_key=ae6cSIxsA1AyqemJ1vHJhc" alt="world-heatmap" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="arielyeung:225" sharekey-plotly="ae6cSIxsA1AyqemJ1vHJhc" src="https://plot.ly/embed.js" async></script>
 </div>
 
 
