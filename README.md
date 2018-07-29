@@ -38,22 +38,22 @@ Regression anaylsis using panel data would be helpful to find out the reasons fo
 
 |Data|
 |---|
-|[Original_2017_full](https://github.com/wyr211/Happy/blob/master/data/Original_2017_full.csv)<br>*The original dataset of World Happiness Report which contains data from 2008 to 2017*|
-|[Original_2017_region](https://github.com/wyr211/Happy/blob/master/data/Original_2017_region.csv)<br>*Region list used by World Happiness Report*|
-|[relig_iso](https://github.com/wyr211/Happy/blob/master/data/relig_iso.csv)<br>*2016 Global religion population percentage data*|
-|[DataSourcesAndVariableDef](https://github.com/wyr211/Happy/blob/master/data/DataSourcesAndVariableDef.pdf)<br>*Data sources and variable definitions by World Happiness Report*|
+|[Original_2017_full](https://github.com/arielyeung/Happiness_Analysis/blob/master/Data/Original_2017_full.csv)<br>*The original dataset of World Happiness Report which contains data from 2008 to 2017*|
+|[Original_2017_region](https://github.com/arielyeung/Happiness_Analysis/blob/master/Data/Original_2017_region.csv)<br>*Region list used by World Happiness Report*|
+|[relig_iso](https://github.com/arielyeung/Happiness_Analysis/blob/master/Data/relig_iso.csv)<br>*2016 Global religion population percentage data*|
+|[DataSourcesAndVariableDef](https://github.com/arielyeung/Happiness_Analysis/blob/master/Data/DataSourcesAndVariableDef.pdf)<br>*Data sources and variable definitions by World Happiness Report*|
 
 |Visualization|
 |---|
 |[Heatmap_of_world_happiness](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/HappinessByCountry_Heatmap.png)<br>*Distribution of happiness level around the world 2016*|
-|[Happiness_trend](https://github.com/wyr211/Happy/blob/master/Visualization/Happiness_Trend_LineChart.png)<br>*Happiness scores from year 2005 to 2017*|
-|[Happiness_GDP](https://github.com/wyr211/Happy/blob/master/Visualization/Happiness_GDP_ScatterPlot.png)<br>*Scatter plot between happiness scores and GDP per capita among regions*|
-|[Happiness_religion](https://github.com/wyr211/Happy/blob/master/Visualization/Happiness_Religion_ScatterPlot.png)<br>*Scatter plot between happiness scores and religion percentage among regions*|
-|[Happiness_SocialSupport](https://github.com/wyr211/Happy/blob/master/Visualization/Happiness_SocialSupport_ScatterPlot.png)<br>*Scatter plot between happiness scores and social support among regions*|
-|[Happiness_Gene](https://github.com/wyr211/Happy/blob/master/Visualization/Happiness_Gene_BoxPlot.png)<br>*Boxplot to show the difference on happiness level between two types of gene groups*|
-|[Happiness_LifeExpectancy](https://github.com/wyr211/Happy/blob/master/Visualization/Happiness_LifeExpectancy_ScatterPlot.png)<br>*Scatter plot between happiness scores and life expectancy among regions*|
-|[Happiness_Freedom](https://github.com/wyr211/Happy/blob/master/Visualization/Happiness_Freedom_ScatterPlot.png)<br>*Scatter plot between happiness scores and freedom level among regions*|
-|[GDP_religion](https://github.com/wyr211/Happy/blob/master/Visualization/GDP_Religion_ScatterPlot.png)<br>*Scatter plot between GDP per capita and religion percentage among regions*|
+|[Happiness_trend](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/Happiness_Trend_LineChart.png)<br>*Happiness scores from year 2005 to 2017*|
+|[Happiness_GDP](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/Happiness_GDP_ScatterPlot.png)<br>*Scatter plot between happiness scores and GDP per capita among regions*|
+|[Happiness_religion](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/Happiness_Religion_ScatterPlot.png)<br>*Scatter plot between happiness scores and religion percentage among regions*|
+|[Happiness_SocialSupport](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/Happiness_SocialSupport_ScatterPlot.png)<br>*Scatter plot between happiness scores and social support among regions*|
+|[Happiness_Gene](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/Happiness_Gene_BoxPlot.png)<br>*Boxplot to show the difference on happiness level between two types of gene groups*|
+|[Happiness_LifeExpectancy](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/Happiness_LifeExpectancy_ScatterPlot.png)<br>*Scatter plot between happiness scores and life expectancy among regions*|
+|[Happiness_Freedom](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/Happiness_Freedom_ScatterPlot.png)<br>*Scatter plot between happiness scores and freedom level among regions*|
+|[GDP_religion](https://github.com/arielyeung/Happiness_Analysis/blob/master/Visualization/GDP_Religion_ScatterPlot.png)<br>*Scatter plot between GDP per capita and religion percentage among regions*|
 
 
 ## Inspiration
