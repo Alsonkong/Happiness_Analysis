@@ -8,12 +8,12 @@ The project is inspired by this report and we would like to look at what countri
 When we look at happiness score by country, we found that people in North America, Australia, New Zealand, Western Europe are the happiest, followed by Latin America. People in Africa have the lowest happiness score in general.
 
 <div>
-    <a href="https://plot.ly/~arielyeung/225/?share_key=ae6cSIxsA1AyqemJ1vHJhc" target="_blank" title="world-heatmap" style="display: block; text-align: center;"><img src="https://plot.ly/~arielyeung/225.png?share_key=ae6cSIxsA1AyqemJ1vHJhc" alt="world-heatmap" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <a href="https://plot.ly/~arielyeung/225/?share_key=ae6cSIxsA1AyqemJ1vHJhc" target="_blank" title="world-heatmap" style="display: block; text-align: center;"><img src="https://plot.ly/~arielyeung/225.png?share_key=ae6cSIxsA1AyqemJ1vHJhc" alt="world-heatmap" style="max-width: 100%;width: 600px;"  width="1000" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
 </div>
 When exploring the relationship between happiness and GDP per capita, we found that Latin Americans are outstandingly happier comparing with other countries with similar level of wealthness.
 
 <div>
-    <a href="https://plot.ly/~arielyeung/227/?share_key=1ZeH7Zabh53REfyMHxsVZQ" target="_blank" title="plot from API (20)" style="display: block; text-align: center;"><img src="https://plot.ly/~arielyeung/227.png?share_key=1ZeH7Zabh53REfyMHxsVZQ" alt="plot from API (20)" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <a href="https://plot.ly/~arielyeung/227/?share_key=1ZeH7Zabh53REfyMHxsVZQ" target="_blank" title="plot from API (20)" style="display: block; text-align: center;"><img src="https://plot.ly/~arielyeung/227.png?share_key=1ZeH7Zabh53REfyMHxsVZQ" alt="plot from API (20)" style="max-width: 100%;width: 600px;"  width="1000" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
 </div>
 
 The rest of the project focuses on giving this unusual happiness some possible explanations through examining the relationship between happiness and different aspects such as religion, social support and genetic gift by incorporating external datasets for further analysis.
